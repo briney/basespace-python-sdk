@@ -1,6 +1,6 @@
 
 import json
-from io import StringIO
+from StringIO import StringIO
 
 class ListResponse(object):
 
