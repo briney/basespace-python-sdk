@@ -1,6 +1,8 @@
 INTRODUCTION	
 =========================================
-
+  
+_NOTE: This repo is a fork of Illumina's [BaseSpace Python SDK](https://github.com/basespace/basespace-python-sdk), updated to be Python 3.x compatible. This fork is not tested against Python 2.x, so Illumina's BaseSpace Python SDK is recommended for Python 2.x users._
+  
 BaseSpacePy is a Python based SDK to be used in the development of Apps and scripts for working with Illumina's BaseSpace cloud-computing solution for next-gen sequencing data analysis. 
 
 The primary purpose of the SDK is to provide an easy-to-use Python environment enabling developers to authenticate a user, retrieve data, and upload data/results from their own analysis to BaseSpace.
